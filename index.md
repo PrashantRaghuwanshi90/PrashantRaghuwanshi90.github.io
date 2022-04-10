@@ -17,8 +17,9 @@ This project aims to take the collected data from the ATUS survey and determine 
 <img src="images/Unsupervise_clustring.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Detect Autistics disease among the toddlers](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/7e491a84f3e05479cf95cbe72a5d5eb9fb8ea566/Detect%20Autistics%20disease%20among%20the%20toddlers/Detect%20Autistics%20disease%20among%20the%20toddlers_Project_Code%20.ipynb)
+This model uses ASD Pre-Screening traits data as input and helps health care professionals to predict accurately the possibility of ASD disease among toddlers.
+<img src="images/toddler_ruc.png?raw=true"/>
 
 ---
 
