@@ -5,7 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ### Machine Learning 
 
-[Project 1 Title](/sample_page)
+[Identification of Rice Varities](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/tree/main/IDENTIFICATION%20OF%20RICE%20VARIETIES)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
