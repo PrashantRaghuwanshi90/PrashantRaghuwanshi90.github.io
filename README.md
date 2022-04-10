@@ -21,8 +21,7 @@ This project aims to take the collected data from the ATUS survey and determine 
 <br><img src="images/Unsupervise_clustring.png?raw=true"/>
 
 ---
-[Hotel Recommendation System]
-(https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/f0e4efd7e085e5846c6bc30e8aa2181222856cc3/Hotel%20Recommendation%20System/Hotel_Recommendation_System.ipynb)
+[Hotel Recommendation System](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/f0e4efd7e085e5846c6bc30e8aa2181222856cc3/Hotel%20Recommendation%20System/Hotel_Recommendation_System.ipynb)
 (Content & Hybrid Recommendation)
 This model is fed with AIRBNB hotel data and uses Content-Based & Hybrid Recommendation Systems to generate the recommendation of the top 5 hotel cluster-id suited for the hotel website user.
 <br><img src="images/content_rec.png?raw=true"/>
