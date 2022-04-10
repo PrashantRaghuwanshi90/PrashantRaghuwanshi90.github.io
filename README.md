@@ -5,7 +5,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Machine Learning
 
-	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Identification of Rice Varities](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/4110a9c2b3b71c0a27b881f2209edccb73f7e586/Identification%20of%20Rice%20Varities/IdentificationOfriceVarities_Classification_Notebook_Prashant_Raghuwanshi.ipynb)
+: A model to predict the Variety of a Rice grain from the given preprocessed images of rice samples datasets by using multiple Classification ML Algorithms.
+<img src="images/classification_problem.jpg?raw=true"/>
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
