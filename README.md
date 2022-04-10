@@ -8,13 +8,13 @@ Repository containing portfolio of data science projects completed by me for aca
 [Identification of Rice Varities](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/4110a9c2b3b71c0a27b881f2209edccb73f7e586/Identification%20of%20Rice%20Varities/IdentificationOfriceVarities_Classification_Notebook_Prashant_Raghuwanshi.ipynb)
 (Supervised-Classification)
 A model to predict the Variety of a Rice grain from the given preprocessed images of rice samples datasets by using multiple Classification ML Algorithms
-<br><br>
+
 <img src="images/classification_problem.jpg?raw=true"/>
 ---
 [Financial services customers clusters](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6a39cdf3c8c782b693fd454f19eeda982c6341c7/Financial%20Services%20Marketing%20Clusters/financial_services_marketing_clusters_notebook.ipynb)
 (Unsupervised-Clustering)
 This project aims to take the collected data from the ATUS survey and determine which of these factors best identifies a respondent who may need financial services. The theory is that gainfully employed individuals supporting themselves or their families will likely need access to financial services provided by banking institutions, such as savings accounts and certificates of deposit (CDs)
-<br><br>
+
 <img src="images/Unsupervise_clustring.png?raw=true"/>
 ---
 [Project 3 Title](http://example.com/)
