@@ -1,10 +1,13 @@
 title: Prashant Raghuwanshi # your name (or website title) here
 logo: "/images/prashant_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description
-  •	Experienced Cloud Data Architect\Lead with 15+ years of experience in defining requirements, planning solutions, and developing and implementing at the Enterprise level. 
-  •	Background includes Data Integration, Cloud Migration, Warehouse, DataLake & Analytics, Legacy Modernization, Master Data Management, Data Science with excellent communication & technical skills. 
-  •	Business Knowledge of Healthcare, Insurance, Manufacturing & Financial Domain
+  <br><br>
+  Cloud Data Architect\Lead with 15+ years of experience in Recommending, developing & Implementing the enterprise-software solutions for Data Engineering, Analytics & Data Science related requirements.
+  <br><br>
+  Background includes E2E developments of solutions for Enterprise wide Cloud Data Integration, Migration, Real-time Analytics, Datalake, DataWarehouse, Master Data Management, Model development for Data Science, CICD Pipelines & Legacy system Modernization with excellent communication & technical skills.
+  <br><br>
+  Working Experience in Healthcare, Insurance, Manufacturing & Financial Business Domains.
+  <br><br>
   <a href="https://www.linkedin.com/in/prashant-raghuwanshi-78945a33/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
