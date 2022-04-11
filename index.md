@@ -36,6 +36,10 @@ This Project is using Applied text analysis & a multi-label classifier chatbot d
 <br><img src="images/nlp_proj1.png?raw=true"/>
 
 ---
+[Detect Cross-Language Information](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6115e3086d503bab2894aafee9109c2061d84b50/Detect%20Cross%20Language%20Information/Detect%20Cross%20Language%20Information.ipynb)
+Cross-language information retrieval system that, given a query in German, searches text documents written in English
+
+---
 ### Data Analysis and Visualization
 
 #### R Programming
@@ -44,8 +48,9 @@ This Project is using Applied text analysis & a multi-label classifier chatbot d
 <br><img src="images/eda_r1.png?raw=true"/>
 
 ---
-#### Python
 
+#### Python
+---
 [Data Wrangling on API, WebScrapping ,File](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/07beda166f43972373bd3ed7af78a743b7528140/Data%20Analysis%20and%20Visualisation/Python/DataWrangling_withpython_API_WEBSCRAPING_FILE.ipynb)
 ---
 #### Visualtization
@@ -53,6 +58,7 @@ This Project is using Applied text analysis & a multi-label classifier chatbot d
 [BI Dashboard, BLOG post, Infographics](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/907f25bd2f51043cac8c6bb35178544167f34b4f/Data%20Analysis%20and%20Visualisation/Visualization/Airline_BlogPost.pdf)
 
 ---
+
 
 ---
 
