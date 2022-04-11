@@ -47,23 +47,19 @@ Cross-language information retrieval system that, given a query in German, searc
 ### Data Analysis and Visualization
 
 #### R Programming
-
+---
 [Perform EDA on Credit Card Data](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/ac754a24e6fa50b495960ddbbfa557f8391a03d8/Data%20Analysis%20and%20Visualisation/R_Programming/Perform%20EDA%20on%20Credit%20Card%20Data.Rmd)
 <br><img src="images/eda_r1.png?raw=true"/>
 
 ---
 
 #### Python
-
+---
 [Data Wrangling on API, WebScrapping ,File](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/07beda166f43972373bd3ed7af78a743b7528140/Data%20Analysis%20and%20Visualisation/Python/DataWrangling_withpython_API_WEBSCRAPING_FILE.ipynb)
 ---
 #### Visualtization
 ---
 [BI Dashboard, BLOG post, Infographics](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/907f25bd2f51043cac8c6bb35178544167f34b4f/Data%20Analysis%20and%20Visualisation/Visualization/Airline_BlogPost.pdf)
-
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
