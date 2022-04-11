@@ -35,7 +35,9 @@ This model uses ASD Pre-Screening traits data as input and helps health care pro
 
 ### Natural Language Processing
 
-- [Project 1 Title](http://example.com/)
+- [Predict Category of Chatbot text Extract](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/f05e187de9e761cbf4baa4bec23643f78a8b17cf/Predict%20Chatbot%20text%20Category/Predict%20Chatbot%20text%20Category_Jupyter_code.ipynb)
+- This Project is using Applied text analysis & a multi-label classifier chatbot dataset. Aims to develop a model which Predicts the user comments category.
+- <br><img src="images/nlp_proj1?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
