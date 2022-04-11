@@ -40,7 +40,14 @@ This Project is using Applied text analysis & a multi-label classifier chatbot d
 <br><img src="images/nlp_proj1.png?raw=true"/>
 
 ---
-- [Project 2 Title](http://example.com/)
+### Data Analysis and Visualization
+
+#### R Programming
+
+[Perform EDA on Credit Card Data](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/ac754a24e6fa50b495960ddbbfa557f8391a03d8/Data%20Analysis%20and%20Visualisation/R_Programming/Perform%20EDA%20on%20Credit%20Card%20Data.Rmd)
+<br><img src="images/eda_r1.png?raw=true"/>
+
+---
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
@@ -51,4 +58,4 @@ This Project is using Applied text analysis & a multi-label classifier chatbot d
 
 
 ---
-<!-- Remove above link if you don't want to attibute -->
+
