@@ -39,8 +39,8 @@ This model uses ASD Pre-Screening traits data as input and helps health care pro
 This Project is using Applied text analysis & a multi-label classifier chatbot dataset. Aims to develop a model which Predicts the user comments category.
 <br><img src="images/nlp_proj1.png?raw=true"/>
 
-[Detect Cross-Language Information]
-(https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6115e3086d503bab2894aafee9109c2061d84b50/Detect%20Cross%20Language%20Information/Detect%20Cross%20Language%20Information.ipynb)
+---
+[Detect Cross-Language Information](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6115e3086d503bab2894aafee9109c2061d84b50/Detect%20Cross%20Language%20Information/Detect%20Cross%20Language%20Information.ipynb)
 Cross-language information retrieval system that, given a query in German, searches text documents written in English
 
 ---
