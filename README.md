@@ -9,9 +9,12 @@ Repository containing portfolio of data science projects completed by me for aca
 (Supervised-Classification)
 A model to predict the Variety of a Rice grain from the given preprocessed images of rice samples datasets by using multiple Classification ML Algorithms.
 <br><img src="images/classification_problem.jpg?raw=true"/>
-
 ---
-[Project02]
+[Recognizing Images](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6a39cdf3c8c782b693fd454f19eeda982c6341c7/Financial%20Services%20Marketing%20Clusters/financial_services_marketing_clusters_notebook.ipynb)
+(Deep Learning)
+This project aims to build the an image-driven application that leverages computer vision to classify or categorize an image file based on its visual content. 
+In essence, these applications pull valuable information and insights out of visual content.
+<img src="images/busimage.png?raw=true"/>
 -----
 [Project03]
 ----
