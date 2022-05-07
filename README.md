@@ -4,13 +4,16 @@ Repository containing portfolio of data science projects completed by me for aca
 ---
 
 ### Machine Learning 
+---
 
 [Identification of Rice Varities](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/4110a9c2b3b71c0a27b881f2209edccb73f7e586/Identification%20of%20Rice%20Varities/IdentificationOfriceVarities_Classification_Notebook_Prashant_Raghuwanshi.ipynb)
 (Supervised-Classification)
 A model to predict the Variety of a Rice grain from the given preprocessed images of rice samples datasets by using multiple Classification ML Algorithms.
 <br><img src="images/classification_problem.jpg?raw=true"/>
+
 ---
-[Recognizing Images](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6a39cdf3c8c782b693fd454f19eeda982c6341c7/Financial%20Services%20Marketing%20Clusters/financial_services_marketing_clusters_notebook.ipynb)
+
+[Recognizing Images](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/main/Recognizing%20Images%20-Deep%20Learning/Recignizing_image_ml_code.ipynb)
 (Deep Learning)
 This project aims to build the an image-driven application that leverages computer vision to classify or categorize an image file based on its visual content. 
 In essence, these applications pull valuable information and insights out of visual content.
@@ -18,12 +21,14 @@ In essence, these applications pull valuable information and insights out of vis
 -----
 [Project03]
 ----
+
 [Financial services customers clusters](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6a39cdf3c8c782b693fd454f19eeda982c6341c7/Financial%20Services%20Marketing%20Clusters/financial_services_marketing_clusters_notebook.ipynb)
 (Unsupervised-Clustering)
 This project aims to take the collected data from the ATUS survey and determine which of these factors best identifies a respondent who may need financial services. The theory is that gainfully employed individuals supporting themselves or their families will likely need access to financial services provided by banking institutions, such as savings accounts and certificates of deposit (CDs).
 <br><img src="images/Unsupervise_clustring.png?raw=true"/>
 
 ---
+
 [Hotel Recommendation System](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/f0e4efd7e085e5846c6bc30e8aa2181222856cc3/Hotel%20Recommendation%20System/Hotel_Recommendation_System.ipynb)
 (Content & Hybrid Recommendation)
 This model is fed with AIRBNB hotel data and uses Content-Based & Hybrid Recommendation Systems to generate the recommendation of the top 5 hotel cluster-id suited for the hotel website user.
