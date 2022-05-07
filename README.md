@@ -17,7 +17,9 @@ A model to predict the Variety of a Rice grain from the given preprocessed image
 (Deep Learning)
 This project aims to build the an image-driven application that leverages computer vision to classify or categorize an image file based on its visual content. 
 In essence, these applications pull valuable information and insights out of visual content.
+
 <img src="images/busimage.png?raw=true"/>
+
 -----
 [Project03]
 ----
