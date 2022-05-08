@@ -6,15 +6,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/prashant-raghuwanshi-78945a33/">View My LinkedIn Profile</a> 
   <br><br>
-  Licenses and Certifications
-  <br><br>
-  •	CERTIFIED SAFe® Agile Practitioner.
-  •	AWS Certified Data Analytics - Specialty
-  •	AWS Certified Solutions Architect – Associate.
-  •	Microsoft Analyzing and Visualizing Data with Power BI
-  •	SAP Certified Application Associate "SAP Cloud Platform Integration."
-  •	INFORMATICA Power Center Data Integration 9. x: Developer Specialist certification.
-  •	IBM Certified Solution Developer – InfoSphere Data Stage.
-  •	SAP Certified Application Associate - SAP HANA Modelling 2.0.
-  •	Postgraduate Diploma in Operation Management.
-  •	Cisco Certified Network Associate Certification
+theme: jekyll-theme-minimal
